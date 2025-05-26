@@ -1,0 +1,14 @@
+[
+  { "french": "Vert", "russian": "зелёный", "russianOccidental":"zeljónyj" },
+  { "french": "Rouge", "russian": "красный", "russianOccidental":"" },
+  { "french": "Bleu clair", "russian": "голубой", "russianOccidental":"" },
+  { "french": "Bleu foncé", "russian": "синий", "russianOccidental":"" },
+  { "french": "Jaune", "russian": "жёлтый", "russianOccidental":"" },
+  { "french": "Violet", "russian": "фиолетовый", "russianOccidental":"" },
+  { "french": "Noir", "russian": "чёрный ", "russianOccidental":"" },
+  { "french": "Blanc", "russian": "белый ", "russianOccidental":"" },
+  { "french": "Gris", "russian": "серый", "russianOccidental":"" },
+  { "french": "Rose", "russian": "розовый", "russianOccidental":"" },
+  { "french": "Orange", "russian": "оранжевый", "russianOccidental":"" },
+  { "french": "Marron", "russian": "коричневый", "russianOccidental":"" }
+]

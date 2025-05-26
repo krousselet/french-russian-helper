@@ -1,0 +1,19 @@
+[
+  { "french": "avion", "russian": "самолёт", "russianOccidental":"Samoliet" },
+  { "french": "bus", "russian": "автобус", "russianOccidental":"Aftobus" },
+  { "french": "train", "russian": "поезд", "russianOccidental":"Poesd" },
+  { "french": "tramway", "russian": "трамвай", "russianOccidental":"Tramvae" },
+  { "french": "bateau", "russian": "лодка", "russianOccidental":"Lodka" },
+  { "french": "camion", "russian": "грузовик", "russianOccidental":"Grousevik" },
+  { "french": "voiture", "russian": "машина", "russianOccidental":"Mashina" },
+  { "french": "taxi", "russian": "такси", "russianOccidental":"Taxi" },
+  { "french": "vélo", "russian": "велосипед", "russianOccidental":"Velociped" },
+  { "french": "aéroport", "russian": "аэропорт", "russianOccidental":"aéroporte" },
+  { "french": "bouchon", "russian": "пробка", "russianOccidental":"Probka" },
+  { "french": "metro", "russian": "метро", "russianOccidental":"metro" },
+  { "french": "moto", "russian": "мотоцикл", "russianOccidental":"mototsikl" },
+  { "french": "hélicoptère", "russian": "вертолёт", "russianOccidental":"Vertoliet" },
+  { "french": "ferry", "russian": "паром", "russianOccidental":"Parom" },
+  { "french": "fourgonnette", "russian": "пикап", "russianOccidental":"Pikap" },
+  { "french": "remorque", "russian": "", "russianOccidental":"" }
+]
