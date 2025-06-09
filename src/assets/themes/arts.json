@@ -1,14 +1,122 @@
 [
-  { "french": "Vert", "russian": "зелёный", "russianOccidental":"zeljónyj" },
-  { "french": "Rouge", "russian": "красный", "russianOccidental":"" },
-  { "french": "Bleu clair", "russian": "голубой", "russianOccidental":"" },
-  { "french": "Bleu foncé", "russian": "синий", "russianOccidental":"" },
-  { "french": "Jaune", "russian": "жёлтый", "russianOccidental":"" },
-  { "french": "Violet", "russian": "фиолетовый", "russianOccidental":"" },
-  { "french": "Noir", "russian": "чёрный ", "russianOccidental":"" },
-  { "french": "Blanc", "russian": "белый ", "russianOccidental":"" },
-  { "french": "Gris", "russian": "серый", "russianOccidental":"" },
-  { "french": "Rose", "russian": "розовый", "russianOccidental":"" },
-  { "french": "Orange", "russian": "оранжевый", "russianOccidental":"" },
-  { "french": "Marron", "russian": "коричневый", "russianOccidental":"" }
+  {
+    "french": "Vert",
+    "russian": "зелёный",
+    "russianOccidental": "zeljónyj",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["зелёный", "зелёного", "зелёному", "зелёный", "зелёным", "зелёном"],
+      "plural": ["зелёные", "зелёных", "зелёным", "зелёные", "зелёными", "зелёных"]
+    }
+  },
+  {
+    "french": "Rouge",
+    "russian": "красный",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["красный", "красного", "красному", "красный", "красным", "красном"],
+      "plural": ["красные", "красных", "красным", "красные", "красными", "красных"]
+    }
+  },
+  {
+    "french": "Bleu clair",
+    "russian": "голубой",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["голубый", "голубого", "голубому", "голубый", "голубым", "голубом"],
+      "plural": ["голубые", "голубых", "голубым", "голубые", "голубыми", "голубых"]
+    }
+  },
+  {
+    "french": "Bleu foncé",
+    "russian": "синий",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["синый", "синого", "синому", "синый", "синым", "сином"],
+      "plural": ["синые", "синых", "синым", "синые", "сиными", "синых"]
+    }
+  },
+  {
+    "french": "Jaune",
+    "russian": "жёлтый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["жёлтый", "жёлтого", "жёлтому", "жёлтый", "жёлтым", "жёлтом"],
+      "plural": ["жёлтые", "жёлтых", "жёлтым", "жёлтые", "жёлтыми", "жёлтых"]
+    }
+  },
+  {
+    "french": "Violet",
+    "russian": "фиолетовый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["фиолетовый", "фиолетового", "фиолетовому", "фиолетовый", "фиолетовым", "фиолетовом"],
+      "plural": ["фиолетовые", "фиолетовых", "фиолетовым", "фиолетовые", "фиолетовыми", "фиолетовых"]
+    }
+  },
+  {
+    "french": "Noir",
+    "russian": "чёрный",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["чёрный", "чёрного", "чёрному", "чёрный", "чёрным", "чёрном"],
+      "plural": ["чёрные", "чёрных", "чёрным", "чёрные", "чёрными", "чёрных"]
+    }
+  },
+  {
+    "french": "Blanc",
+    "russian": "белый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["белый", "белого", "белому", "белый", "белым", "белом"],
+      "plural": ["белые", "белых", "белым", "белые", "белыми", "белых"]
+    }
+  },
+  {
+    "french": "Gris",
+    "russian": "серый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["серый", "серого", "серому", "серый", "серым", "сером"],
+      "plural": ["серые", "серых", "серым", "серые", "серыми", "серых"]
+    }
+  },
+  {
+    "french": "Rose",
+    "russian": "розовый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["розовый", "розового", "розовому", "розовый", "розовым", "розовом"],
+      "plural": ["розовые", "розовых", "розовым", "розовые", "розовыми", "розовых"]
+    }
+  },
+  {
+    "french": "Orange",
+    "russian": "оранжевый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["оранжевый", "оранжевого", "оранжевому", "оранжевый", "оранжевым", "оранжевом"],
+      "plural": ["оранжевые", "оранжевых", "оранжевым", "оранжевые", "оранжевыми", "оранжевых"]
+    }
+  },
+  {
+    "french": "Marron",
+    "russian": "коричневый",
+    "russianOccidental": "",
+    "declensions": {
+      "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+      "singular": ["коричневый", "коричневого", "коричневому", "коричневый", "коричневым", "коричневом"],
+      "plural": ["коричневые", "коричневых", "коричневым", "коричневые", "коричневыми", "коричневых"]
+    }
+  }
 ]

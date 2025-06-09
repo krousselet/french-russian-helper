@@ -1,30 +1,255 @@
 [
-    { "french": "tête", "russian": "голова", "russianOccidental": "galava"},
-    { "french": "visage", "russian": "лицо", "russianOccidental": "litso"},
-    { "french": "oreille", "russian": "Лоб ", "russianOccidental": "Ujo"},
-    { "french": "oeil", "russian": "Лоб", "russianOccidental": "glaz"},
-    { "french": "gorge", "russian": "Горло ", "russianOccidental": "gorlo"},
-    { "french": "bouche", "russian": "Рот", "russianOccidental": "rot"},
-    { "french": "nez", "russian": "Нос", "russianOccidental": "nos"},
-    { "french": "lèvres", "russian": "Губы", "russianOccidental": "guby"},
-    { "french": "dents", "russian": "Зубы", "russianOccidental": "zuby"},
-    { "french": "joues", "russian": "Щека", "russianOccidental": "Shieka"},
-    { "french": "front", "russian": "Лоб", "russianOccidental": "lobe"},
-    { "french": "menton", "russian": "Подбородок ", "russianOccidental": "Podborodok"},
-    { "french": "sourcil", "russian": "Бровь", "russianOccidental": "brofv"},
-    { "french": "cheveux", "russian": "волосы", "russianOccidental": "volossy"},
-    { "french": "langue", "russian": "Язык", "russianOccidental": "Iasyk"},
-    { "french": "fesses", "russian": "ягодицы", "russianOccidental": "yagaditsy" },
-    { "french": "ventre", "russian": "живот", "russianOccidental": "jivot" },
-    { "french": "dos", "russian": "спина", "russianOccidental": "spina" },
-    { "french": "genoux", "russian": "колени", "russianOccidental": "galéni" },
-    { "french": "cuisses", "russian": "бёдра", "russianOccidental": "biodra" },
-    { "french": "bassin", "russian": "таз", "russianOccidental": "tas" },
-    { "french": "cou", "russian": "шея", "russianOccidental": "chéïa" },
-    { "french": "épaules", "russian": "плечи", "russianOccidental": "pietchi" },
-    { "french": "poitrine / seins", "russian": "грудь", "russianOccidental": "grout" },
-    { "french": "bras / mains", "russian": "руки", "russianOccidental": "rouki" },
-    { "french": "jambes / pieds", "russian": "ноги", "russianOccidental": "nogui" },
-    { "french": "manger", "russian": "", "russianOccidental": "" },
-    { "french": "boire", "russian": "", "russianOccidental": "" }
+  {
+    "french": "tête",
+    "russian": "голова",
+    "russianOccidental": "galava",
+    "declensions": {
+      "cases": [
+        "nominatif",
+        "accusatif",
+        "génitif",
+        "datif",
+        "instrumental",
+        "prépositionnel"
+      ],
+      "singular": ["голова", "головы", "голове", "голову", "головой", "голове"],
+      "plural": ["головы", "голов", "головам", "головы", "головами", "головах"]
+    }
+  },
+  {
+    "french": "visage",
+    "russian": "лицо",
+    "russianOccidental": "litso",
+    "declensions": {
+      "cases": [
+        "nominatif",
+        "accusatif",
+        "génitif",
+        "datif",
+        "instrumental",
+        "prépositionnel"
+      ],
+      "singular": ["лицо", "лица", "лицу", "лицо", "лицом", "лице"],
+      "plural": ["лица", "лиц", "лицам", "лиц", "лицами", "лицах"]
+    }
+  },
+  {
+    "french": "oreille",
+    "russian": "ухо",
+    "russianOccidental": "oura",
+    "declensions": {
+      "cases": [
+        "nominatif",
+        "accusatif",
+        "génitif",
+        "datif",
+        "instrumental",
+        "prépositionnel"
+      ],
+      "singular": ["ухо", "уха", "уху", "ухо", "ухом", "ухе"],
+      "plural": ["уши", "ушей", "ушам", "уши", "ушами ", "ушах"]
+    }
+  },
+  {
+    "french": "oeil",
+    "russian": "Лоб",
+    "russianOccidental": "glaz"
+  },
+  {
+    "french": "gorge",
+    "russian": "Горло ",
+    "russianOccidental": "gorlo"
+  },
+  {
+    "french": "bouche",
+    "russian": "Рот",
+    "russianOccidental": "rot"
+  },
+  {
+    "french": "nez",
+    "russian": "Нос",
+    "russianOccidental": "nos"
+  },
+  {
+    "french": "lèvres",
+    "russian": "Губы",
+    "russianOccidental": "guby"
+  },
+  {
+    "french": "dents",
+    "russian": "Зубы",
+    "russianOccidental": "zuby"
+  },
+  {
+    "french": "joues",
+    "russian": "Щека",
+    "russianOccidental": "Shieka"
+  },
+  {
+    "french": "front",
+    "russian": "Лоб",
+    "russianOccidental": "lobe",
+    "declensions": {
+      "cases": [
+        "nominatif",
+        "accusatif",
+        "génitif",
+        "datif",
+        "instrumental",
+        "prépositionnel",
+        "locative"
+      ],
+      "singular": ["лоб", "лба", "лбу", "лоб", "лбом", "лбе", "лбу"],
+      "plural": ["лбы", "лбов", "лбам", "лбы", "лбами ", "лбах", "лбу"]
+    }
+  },
+  {
+    "french": "menton",
+    "russian": "Подбородок ",
+    "russianOccidental": "Podborodok"
+  },
+  {
+    "french": "sourcil",
+    "russian": "Бровь",
+    "russianOccidental": "brofv"
+  },
+  {
+    "french": "cheveux",
+    "russian": "волосы",
+    "russianOccidental": "volossy"
+  },
+  {
+    "french": "langue",
+    "russian": "Язык",
+    "russianOccidental": "Iasyk"
+  },
+  {
+    "french": "fesses",
+    "russian": "ягодицы",
+    "russianOccidental": "yagaditsy"
+  },
+  {
+    "french": "ventre",
+    "russian": "живот",
+    "russianOccidental": "jivot"
+  },
+  {
+    "french": "dos",
+    "russian": "спина",
+    "russianOccidental": "spina"
+  },
+  {
+    "french": "genoux",
+    "russian": "колени",
+    "russianOccidental": "galéni"
+  },
+  {
+    "french": "cuisses",
+    "russian": "бёдра",
+    "russianOccidental": "biodra"
+  },
+  {
+    "french": "bassin",
+    "russian": "таз",
+    "russianOccidental": "tas"
+  },
+  {
+    "french": "cou",
+    "russian": "шея",
+    "russianOccidental": "chéïa"
+  },
+  {
+    "french": "épaules",
+    "russian": "плечи",
+    "russianOccidental": "pietchi"
+  },
+  {
+    "french": "poitrine / seins",
+    "russian": "грудь",
+    "russianOccidental": "grout"
+  },
+  {
+    "french": "bras / mains",
+    "russian": "руки",
+    "russianOccidental": "rouki"
+  },
+  {
+    "french": "jambes / pieds",
+    "russian": "ноги",
+    "russianOccidental": "nogui"
+  },
+  {
+    "french": "manger",
+    "russian": "есть, съесть",
+    "russianOccidental": "iest, cest",
+    "conjugaison": {
+      "present": [
+        "я ем",
+        "ты ешь",
+        "он/она/оно ест",
+        "мы едим",
+        "вы едите",
+        "они едят"
+      ],
+      "past": [
+        "я ел / съел",
+        "ты ел / съел",
+        "он ел / съел",
+        "мы ели / съели",
+        "вы ели / съели",
+        "они ели / съели"
+      ],
+      "futur": [
+        "я буду есть / съем",
+        "ты будешь есть / съешь",
+        "он/она/оно будет есть / съест",
+        "мы будем есть / съедим",
+        "вы будете есть / съедите",
+        "они будут есть / съедят"
+      ],
+      "imperatif": ["—", "ешь / съешь", "—", "—", "ешьте / съешьте", "—"]
+    }
+  },
+  {
+    "french": "",
+    "russian": "",
+    "russianOccidental": ""
+  },
+  {
+    "french": "",
+    "russian": "",
+    "russianOccidental": ""
+  },
+  {
+    "french": "boire",
+    "russian": "пить, выпить",
+    "russianOccidental": "pit, vouipit",
+    "conjugaison": {
+      "present": [
+        "я пью",
+        "ты пьёшь",
+        "он/она/оно пьёт",
+        "мы пьём",
+        "вы пьёте",
+        "они пьют"
+      ],
+      "past": [
+        "я пил(a) / выпил(a)",
+        "ты пил(a) / выпил(a)",
+        "он/онa пил(a) / выпил(a)a",
+        "—",
+        "оно пило / выпило",
+        "они пили / выпили"
+      ],
+      "futur": [
+        "я буду пить / выпью",
+        "ты будешь пить / выпьёшь",
+        "он/она/оно пить есть / выпьёт",
+        "мы будем пить / выпьём",
+        "вы будете пить / выпьёте",
+        "они будут пить / выпьют"
+      ],
+      "imperatif": ["—", "пей / выпей", "—", "—", "пейте / выпейте", "—"]
+    }
+  }
 ]

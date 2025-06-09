@@ -1,0 +1,107 @@
+[
+    {
+        "french": "0 / zéro",
+        "russian": "ноль",
+        "russianOccidental": "nol"
+    },
+    {
+        "french": "1 / un",
+        "russian": "один",
+        "russianOccidental": "adin"
+    },
+    {
+        "french": "2 / deux",
+        "russian": "два",
+        "russianOccidental": "dva"
+    },
+    {
+        "french": "3 / trois",
+        "russian": "три",
+        "russianOccidental": "tri"
+    },
+    {
+        "french": "4 /quatre",
+        "russian": "четыре",
+        "russianOccidental": "tchetiri"
+    },
+    {
+        "french": "5 / cinq",
+        "russian": "pyat’",
+        "russianOccidental": "shest’"
+    },
+    {
+        "french": "6 / six",
+        "russian": "шесть",
+        "russianOccidental": "nol"
+    },
+    {
+        "french": "7 / sept",
+        "russian": "семь",
+        "russianOccidental": "sem’"
+    },
+    {
+        "french": "8 / huit",
+        "russian": "восемь",
+        "russianOccidental": "vosim’"
+    },
+    {
+        "french": "9 / neuf",
+        "russian": "девять",
+        "russianOccidental": "diévit’"
+    },
+    {
+        "french": "10 / dix",
+        "russian": "десять",
+        "russianOccidental": "diésit’"
+    },
+    {
+        "french": "11 / onze",
+        "russian": "одиннадцать",
+        "russianOccidental": "adinatsat’"
+    },
+    {
+        "french": "12 / douze",
+        "russian": "двенадцать",
+        "russianOccidental": "dvinatsat’"
+    },
+    {
+        "french": "13 / treize",
+        "russian": "тринадцать",
+        "russianOccidental": "trinatsat’"
+    },
+    {
+        "french": "14 / quatorze",
+        "russian": "четырнадцать",
+        "russianOccidental": "tchitirnatsat’"
+    },
+    {
+        "french": "15 / quinze",
+        "russian": "пятнадцать",
+        "russianOccidental": "pitnatsat’"
+    },
+    {
+        "french": "16 / seize",
+        "russian": "шестнадцать",
+        "russianOccidental": "shystnatsat’"
+    },
+    {
+        "french": "17 / dix-sept",
+        "russian": "семнадцать",
+        "russianOccidental": "simnatsat’"
+    },
+    {
+        "french": "18 / dix-huit",
+        "russian": "восемнадцать",
+        "russianOccidental": "vassimnatsat’"
+    },
+    {
+        "french": "19 / dix-neuf",
+        "russian": "девятнадцать",
+        "russianOccidental": "divitnatsat’"
+    },
+    {
+        "french": "20 / vingt",
+        "russian": "двадцать",
+        "russianOccidental": "dvatsat’"
+    }
+]

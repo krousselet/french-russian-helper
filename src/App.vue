@@ -10,7 +10,6 @@
 
 <script>
 import LanguageSwitcherComponent from "./components/LanguageSwitcherComponent.vue";
-
 export default {
   components: {
     LanguageSwitcherComponent,
@@ -40,6 +39,7 @@ export default {
 
 body {
   background-color: black;
+  color: white !important;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

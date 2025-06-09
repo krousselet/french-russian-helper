@@ -8,6 +8,7 @@ const messages = {
     about: "À propos",
     alphabet: "Alphabet",
     expressions: "Expressions",
+    declensions: "declensions",
     // SLOGAN
     furansugo: "Furansugo",
     slogan: "Apprendre en s'amusant",

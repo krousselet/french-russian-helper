@@ -1,0 +1,15 @@
+[
+  { "french": "janvier", "russian": "январь", "russianOccidental": "yénvar" },
+  { "french": "février", "russian": "февраль", "russianOccidental": "fivral" },
+  { "french": "mars", "russian": "март", "russianOccidental": "mart" },
+  { "french": "avril", "russian": "апрель", "russianOccidental": "aprél'" },
+  { "french": "mai", "russian": "май", "russianOccidental": "maï" },
+  { "french": "juin", "russian": "июнь", "russianOccidental": "iyoun'" },
+  { "french": "juillet", "russian": "июль", "russianOccidental": "iyoul'" },
+  { "french": "août", "russian": "август", "russianOccidental": "avgoust" },
+  { "french": "septembre", "russian": "сентябрь", "russianOccidental": "sintiabr'" },
+  { "french": "octobre", "russian": "октябрь", "russianOccidental": "aktiabr'" },
+  { "french": "novembre", "russian": "ноябрь", "russianOccidental": "naïabr'" },
+  { "french": "décembre", "russian": "декабрь", "russianOccidental": "dikabr'" },
+  { "french": "le temps", "russian": "время", "russianOccidental": "vremya" }
+]
