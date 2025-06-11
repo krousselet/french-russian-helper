@@ -11,5 +11,9 @@
   { "french": "octobre", "russian": "октябрь", "russianOccidental": "aktiabr'" },
   { "french": "novembre", "russian": "ноябрь", "russianOccidental": "naïabr'" },
   { "french": "décembre", "russian": "декабрь", "russianOccidental": "dikabr'" },
-  { "french": "le temps", "russian": "время", "russianOccidental": "vremya" }
+  { "french": "le temps", "russian": "время", "russianOccidental": "vremya" },
+  { "french": "pleuvoir", "russian": " пойти дождь", "russianOccidental": "poi'ti dojd'" },
+  { "french": "brouillard", "russian": "туман", "russianOccidental": "touman" },
+  { "french": "neige", "russian": "снег", "russianOccidental": "cnieg" },
+  { "french": "boue", "russian": "грязь", "russianOccidental": "gryaz'" }
 ]

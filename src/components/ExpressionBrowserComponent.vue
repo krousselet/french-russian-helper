@@ -31,6 +31,7 @@
             v-for="exp in filteredExpressions"
             :key="exp.french"
             @click="openModal(exp)"
+            :class="{ declension: exp.french }"
           >
             <td class="french">{{ exp.french }}</td>
             <td class="russian">{{ exp.russian }}</td>
@@ -119,7 +120,8 @@ const themes = [
   "transports",
   "corps",
   "nombres",
-  "temps"
+  "temps",
+  "famille"
 ].sort();
 const currentTheme = ref("");
 const expressions = ref([]);
@@ -148,11 +150,12 @@ const selectTheme = async (theme) => {
 
 // Step 3: Filtering Logic
 const filteredExpressions = computed(() => {
-  const term = searchTerm.value.toLowerCase();
+  const term = searchTerm.value.toLowerCase().normalize('NFC');
   return expressions.value.filter((exp) => {
-    const french = exp.french?.toLowerCase() || "";
-    const russian = exp.russian || "";
-    const russianHepburn = exp.russianOccidental || "";
+    const french = (exp.french || "").toLowerCase();
+    const russian = (exp.russian || "").toLowerCase().normalize('NFC');
+    const russianHepburn = (exp.russianOccidental || "").toLowerCase();
+
     return (
       french.includes(term) ||
       russian.includes(term) ||
@@ -177,6 +180,10 @@ function appendToSearch(char) {
 </script>
 
 <style scoped lang="scss">
+.declension {
+  cursor: pointer;
+}
+
 .french {
   color: green;
 }

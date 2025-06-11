@@ -1,0 +1,72 @@
+[
+    { "french": "père", "russian": "отец", "russianOccidental": "otetz",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["отец", "отца", "отца", "отцу", "отцом", "отце"],
+        "plural": ["отцы", "отцов", "отцов", "отцам", "отцами", "отцах"]
+        }
+    },
+    { "french": "mère", "russian": "мать", "russianOccidental": "mat'",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["мать", "мать", "матери", "матери", "матерью", "матери"],
+        "plural": ["матери", "матерей", "матерей", "матерям", "матерями", "матерях"]
+        }
+    },    
+    { "french": "fille", "russian": "дочь", "russianOccidental": "doch'",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["дочь", "дочь", "дочери", "дочери", "дочерью", "дочери"],
+        "plural": ["дочери", "дочерей", "дочерей", "дочерям", "дочерьми / дочерями", "дочерях"]
+        }
+},
+    { "french": "fils", "russian": "сын", "russianOccidental": "syn",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["сын", "сына", "сына", "сыну", "сыном", "сыне"],
+        "plural": ["сыновья / сыны", "сыновей", "сыновей", "сыновьям", "сыновьями", "сыновьях"]
+        }
+},
+    { "french": "oncle", "russian": "дядя", "russianOccidental": "dyadya",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["дядя", "дядю", "дяди", "дяде", "дядей / дядею", "дяде"],
+        "plural": ["дяди / дядья", "дядей / дядьёв", "дядей / дядьёв", "дядям / дядьям", "дядями / дядьями", "дядях / дядьях"]
+        }
+},
+    { "french": "tante", "russian": "тетя", "russianOccidental": "tetya",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["тётя", "тётю", "тёти", "тёте", "тётей", "тёте"],
+        "plural": ["тёти", "тёть", "тёть", "тётям", "тётями", "тётях"]
+        }
+},
+    { "french": "petit-fils", "russian": "внук", "russianOccidental": "vnouk",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["внук", "внука", "внука", "внуку", "внуком", "внуке"],
+        "plural": ["внуки", "внуков", "внуков", "внукам", "внуками", "внуках"]
+        }
+},
+    { "french": "petite-fille", "russian": "внучка", "russianOccidental": "vnoutchka",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["внучка", "внучку", "внучки", "внучке", "внучкой / внучкою", "внучке"],
+        "plural": ["внучки", "внучек", "внучек", "внучкам", "внучками", "внучках"]
+        }
+},
+    { "french": "grand-père", "russian": "дедушка", "russianOccidental": "dedushka",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["дедушка", "дедушку", "дедушки", "дедушке", "дедушкой / дедушкою", "дедушке"],
+        "plural": ["дедушки", "дедушек", "дедушек", "дедушкам", "дедушками", "дедушках"]
+        }
+},
+    { "french": "grand-mère", "russian": "бабушка", "russianOccidental": "babushka",
+    "declensions": {
+        "cases": ["nominatif", "accusatif", "génitif", "datif", "instrumental", "prépositionnel"],
+        "singular": ["бабушка", "бабушку", "бабушки", "бабушке", "бабушкой / бабушкою", "бабушке"],
+        "plural": ["бабушки", "бабушек", "бабушек", "бабушкам", "бабушками", "бабушках"]
+        }
+}
+]
